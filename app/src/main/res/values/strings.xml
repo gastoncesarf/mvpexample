@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mvp</string>
+    <string name="user_name">Nombre:</string>
+    <string name="password">Contraseña:</string>
+    <string name="log_in">Inicar</string>
+    <string name="username_error">El usuario no puede ser vacio</string>
+    <string name="password_error">El password no puede ser vacio</string>
+</resources>
